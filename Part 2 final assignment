@@ -167,7 +167,6 @@ def update_output_container(selected_statistics, input_year):
             values = 'Advertising_Expenditure',
             names = 'Vehicle_Type',
             title='Total Advertisment Expenditure for Each Vehicle'))
-        ))
 
 #TASK 2.6: Returning the graphs for displaying Yearly data
         return [
