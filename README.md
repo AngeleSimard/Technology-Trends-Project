@@ -1,4 +1,3 @@
 # testrepo
-Financial Analyst with an accounting diploma from McMaster University CCE and an BA Economics from the University of Toronto.
-Learning new tools to become more efficient and present findings that are visually more appealing.
+Professional with over 20 years of strong financial experience, with growing and expanded mandates.  Completed a Diploma in Accounting from McMaster University in 2024 with 11.58 GPA. I completed the IBM Data Analyst Professional Certificate.  Highly focused on tackling new challenges or opportunities. Proactively creates plans with achievable goals while adapting throughout to meet targets. Excellent communication skills to relay complex content to match any audience, including senior leaders, centers of influence and new-to-wealth clients. Strongly motivated to develop creative strategies as a means of delivering results.  
 
